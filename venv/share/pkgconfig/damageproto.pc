@@ -1,7 +1,0 @@
-prefix=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv
-includedir=${prefix}/include
-
-Name: DamageProto
-Description: Damage extension headers
-Version: 1.2.1
-Cflags: -I${includedir}

@@ -1,7 +1,0 @@
-prefix=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv
-includedir=${prefix}/include
- 
-Name: PresentProto
-Description: Present extension headers
-Version: 1.4
-Cflags: -I${includedir}
