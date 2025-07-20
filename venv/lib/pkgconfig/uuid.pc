@@ -1,0 +1,11 @@
+prefix=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv
+exec_prefix=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv
+libdir=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv/lib
+includedir=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

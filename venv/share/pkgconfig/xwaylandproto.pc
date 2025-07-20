@@ -1,0 +1,7 @@
+prefix=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv
+includedir=${prefix}/include
+
+Name: XwaylandProto
+Description: Xwayland extension headers
+Version: 1.0
+Cflags: -I${includedir}

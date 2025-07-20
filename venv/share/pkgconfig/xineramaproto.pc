@@ -1,0 +1,7 @@
+prefix=/home/prantik/ALL LEARNING/Agetic ai/LANG_CHAIN/venv
+includedir=${prefix}/include
+ 
+Name: XineramaProto
+Description: Xinerama extension headers
+Version: 1.2.1
+Cflags: -I${includedir}
